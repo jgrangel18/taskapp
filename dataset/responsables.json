@@ -1,0 +1,44 @@
+[
+    {   
+        "id":1,
+        "name":"Jose",
+        "lastname":"Rangel",
+        "age":32,
+        "dob":"18/04/1986",
+        "username":"jgrangel18",
+        "email":"jgrangelf@gmail.com",
+        "password":"JO18ra23*"
+
+    },
+    {   
+        "id":2,
+        "name":"Ana Maria",
+        "lastname":"Casas",
+        "age":30,
+        "dob":"20/05/1988",
+        "username":"amcm",
+        "email":"anama_casas@gmail.com",
+        "password":"amcm123*"
+    },
+    {
+        "id":3,
+        "name":"Carlos",
+        "lastname":"Ramirez",
+        "age":29,
+        "dob":"05/02/1989",
+        "username":"cramirez*",
+        "email":"cramirez@gmail.com",
+        "password":"Cr123*"
+    },
+    {
+        "id":3,
+        "name":"Nathaly",
+        "lastname":"Vargas",
+        "age":30,
+        "dob":"07/05/1989",
+        "username":"nvargas*",
+        "email":"nvargas@gmail.com",
+        "password":"nv312*"
+    }
+    
+]

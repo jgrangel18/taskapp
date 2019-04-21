@@ -1,0 +1,99 @@
+[
+    {
+        "id":1,
+        "nombre":"Barrer",
+        "fecha_vencimiento":"12/07/2019",
+        "status":0,
+        "responsable_id":3,
+        "tipo_tarea":1
+    },
+    {
+        "id":2,
+        "nombre":"Pagar la Luz",
+        "fecha_vencimiento":"20/04/13",
+        "status":0,
+        "responsable_id":1,
+        "tipo_tarea":3
+    },
+    {
+        "id":3,
+        "nombre":"Recoger Platos",
+        "fecha_vencimiento":"18/04/2019",
+        "status":0,
+        "responsable_id":2,
+        "tipo_tarea":2
+    },
+    {
+        "id":4,
+        "nombre":"Lavar bañera",
+        "fecha_vencimiento":"20/05/2019",
+        "status":0,
+        "responsable_id":3,
+        "tipo_tarea":2
+    },
+    {
+        "id":5,
+        "nombre":"Aspirar",
+        "fecha_vencimiento":"20/05/2019",
+        "status":0,
+        "responsable_id":2,
+        "tipo_tarea":2
+    },
+    {
+        "id":6,
+        "nombre":"Limpiar polvo",
+        "fecha_vencimiento":"05/05/2019",
+        "status":0,
+        "responsable_id":4,
+        "tipo_tarea":1
+    },
+    {
+        "id":7,
+        "nombre":"Sacar la basura",
+        "fecha_vencimiento":"18/08/2019",
+        "status":0,
+        "responsable_id":4,
+        "tipo_tarea":2
+    },
+    {
+        "id":8,
+        "nombre":"Barrer",
+        "fecha_vencimiento":"2019/11/10",
+        "status":0,
+        "responsable_id":3,
+        "tipo_tarea":2
+    },
+    {
+        "id":9,
+        "nombre":"Pagar el agua",
+        "fecha_vencimiento":"08/04/2019",
+        "status":0,
+        "responsable_id":2,
+        "tipo_tarea":4
+    },
+    {
+        "id":10,
+        "nombre":"Pagar el Internet",
+        "fecha_vencimiento":"13/04/2019",
+        "status":0,
+        "responsable_id":3,
+        "tipo_tarea":3
+    },
+    {
+        "id":11,
+        "nombre":"Pagar el arriendo",
+        "fecha_vencimiento":"22/04/2019",
+        "status":0,
+        "responsable_id":3,
+        "tipo_tarea":3
+    },
+    {
+        "id":12,
+        "nombre":"Lavar la ropa",
+        "fecha_vencimiento":"06/04/2019",
+        "status":0,
+        "responsable_id":1,
+        "tipo_tarea":2
+    }
+    
+]
