@@ -1,6 +1,6 @@
 <template>
   <div>
-      <form action="#">
+      <form action="./userlogged.vue">
           <div class="form-group">
               <label for="email">Email address:</label>
               <input v-model="user.email" type="email" class="form-control" id="email">
@@ -15,6 +15,7 @@
               </label>
           </div>
           <button v-on:click.stop="validate()" type="submit" class="btn btn-primary">Submit</button>
+          <button v-if="errproblem==true"  v-on:click.stop="validate()" type="submit" class="btn btn-primary">Register</button>
           <br>
           <br>
           <div v-if="errproblem==true" >

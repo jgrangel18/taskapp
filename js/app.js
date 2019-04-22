@@ -1,10 +1,9 @@
 import Vue from "vue";  
 Vue.component('login-chamo', require('./login.vue'));
+Vue.component('nav-bar', require('./navbar.vue'));
 
 var tareas = new Vue({
     el: '#tarea',
-    components : {
-    'login': login },
     data: {
         tareas: [],
         tipo_tarea: [],
@@ -48,7 +47,7 @@ var tareas = new Vue({
     },
     
     mounted(){
-            console.log("HOLAAAA");
+            console.log("MONTA PRIMERO");
             this.upload();
         }
     
